@@ -2,6 +2,15 @@
 
 A flashcard application that allows teachers and students to view, edit, create and update decks of cards and the cards themselves.
 
+
+## Technology
+
+- Javascript
+- HTML
+- CSS
+- Bootstrap
+- Font Awesome
+
 ## Home Screen
 
 ![image](https://user-images.githubusercontent.com/108180333/198870397-04daa2fc-48c2-4487-bc18-e9143fcd2bc1.png)
@@ -29,7 +38,3 @@ A flashcard application that allows teachers and students to view, edit, create 
 ## Edit Card Screen
 
 ![image](https://user-images.githubusercontent.com/108180333/198870523-bea251cf-8dfe-4a8f-a451-5ba6b798013f.png)
-
-## Built With:
-
-Javascript, HTML, CSS, Bootstrap, React and FontAwesome
