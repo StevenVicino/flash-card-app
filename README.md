@@ -2,8 +2,6 @@
 
 A flashcard application that allows teachers and students to view, edit, create and update decks of cards and the cards themselves.  This app was designed to highlight React and Bootstrap technology and is not connected to a database.
 
-[Live Demo](https://flashcard-nbay.onrender.com/)
-
 
 ## Technology
 
